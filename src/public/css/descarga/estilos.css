@@ -1,0 +1,44 @@
+.separador{
+    background-color: #4099ff;
+    height: 1px;
+    width: 100%;
+   margin-bottom: 30px;
+}
+.img{
+    width: 40px;
+}
+.presentacion{
+    display: flex;
+    
+    width: 41%;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.titulo{
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.btn-descargar{
+   
+    width: 30%;
+    text-align: center;
+    padding: 13px 0;
+    color: #000;
+    background-color: #4099ff ;
+}
+.detalles{
+    margin-top: 50px;
+    
+}
+.detalles-titulo{
+    font-size: 2em;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.detalles-item{
+    list-style-type: disc;
+}
+.padding{
+    padding: 0 50px;
+}

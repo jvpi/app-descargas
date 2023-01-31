@@ -1,0 +1,68 @@
+img {
+    width: 50px;
+    margin-right: 40px;
+
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.flex-elemento{
+    display: flex;
+}
+.width-30 {
+    width: 30%;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #fff;
+    box-shadow: 0 2px 16px rgb(0 0 0 / 8%);
+
+}
+
+.article-titulo {
+    font-weight: 700;
+    font-size: 1.3em;
+
+    padding-top: 10px;
+}
+
+.article-parrafo {
+    font-size: .9em;
+
+    width: 80%;
+}
+.padding{
+    padding: 10px;
+}
+.section-seguridad_h2 {
+    font-size: 1.3em;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+.separador{
+    width: 100%;
+    margin-top: 10px;
+    padding: 18px 0;
+    border-top: 1px solid #4099ff;
+    border-bottom: 1px solid #4099ff;
+    margin-top: 30px;
+}
+.ver-todo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+ 
+    margin-top: 15px;
+}
+.ver-todo a{
+   border:1px solid #4099ff ;
+    width: 40%;
+    text-align: center;
+    padding: 13px 0;
+    color: #4099ff;
+   
+}
